@@ -1,72 +1,72 @@
 {
   "Şaman - Kritik": {
     "ekipman": {
-      "KOLYE": "İNCİ KOLYE ",
-      "KÜPE": "CENNETİN GÖZÜ KÜPE",
-      "BİLEZİK": "CENNETİN GÖZÜ BİLEZİK",
-      "AYAKKABI": "ANKA AYAKKABI ( DÖNÜŞTÜĞÜ İÇİN )",
-      "KASK": "KARDİNAL KASK",
-      "ZIRH": "SİYAH ELBİSE",
-      "SİLAH": "KURTULUŞ YELPAZE - ORKİDE ÇAN ( BECERİLİ )",
-      "KALKAN": "ŞAHİN-ASLAN-KAPLAN- EJDERHA PULU"
+      "📿 Kolye": "İNCİ KOLYE ",
+      "📿 Küpe": "CENNETİN GÖZÜ KÜPE",
+      "💎 Bilezik": "CENNETİN GÖZÜ BİLEZİK",
+      "🥾 Ayakkabı": "ANKA AYAKKABI ( DÖNÜŞTÜĞÜ İÇİN )",
+      "👑 Kask": "KARDİNAL KASK",
+      "🛡️ Zırh": "SİYAH ELBİSE",
+      "🗡️ Silah": "KURTULUŞ YELPAZE - ORKİDE ÇAN ( BECERİLİ )",
+      "🛡️ Kalkan": "ŞAHİN-ASLAN-KAPLAN- EJDERHA PULU"
     },
-    "statu": [
-      "INT (SP )",
-      "VIT (HP )",
-      "DEX ( DEF )",
-      "STR "
+    "📈 Statü Sırası": [
+      "🧠 INT (SP )",
+      "❤️ VIT (HP )",
+      "🏃 DEX ( DEF )",
+      "💪 STR "
     ],
     "efsun": {
-      "KOLYE": [
+      "📿 Kolye": [
         "HP FULL",
         "OK SAVUNMASI",
         "ÇİFT EL SAVUNMASI",
         "BIÇAK SAVUNMASI",
         "KILIÇ SAVUNMASI"
       ],
-      "KÜPE": [
+      "📿 Küpe": [
         "KILIÇ SAVUNMASI",
         "OK SAVUNMASI",
         "ÇİFT EL SAVUNMASI",
         "BIÇAK SAVUNMASI",
         "YARI İNSAN KARŞI GÜÇ"
       ],
-      "BİLEZİK": [
+      "💎 Bilezik": [
         "HP FULL",
         "HP ABSORBE",
         "DELİCİ VURUŞ ŞANS",
         "BÜYÜYE KARŞI DAYANIKLILIK",
         "YARI İNSAN KARŞI GÜÇ"
       ],
-      "AYAKKABI": [
+      "🥾 Ayakkabı": [
         "HP FULL",
         "OK SAVUNMASI",
         "ÇİFT EL SAVUNMASI",
         "BIÇAK SAVUNMASI",
         "KILIÇ SAVUNMASI"
       ],
-      "KASK": [
+      "👑 Kask": [
         "HP ÜRETİMİ",
         "OKLARDAN KORUNMA ŞANSI",
         "ZEHİRLEME ŞANSI",
         "BÜYÜYE KARŞI DAYANIKLILIK",
         "YARI İNSAN KARŞI GÜÇ"
       ],
-      "ZIRH": [
+      "🛡️ Zırh": [
         "HP FULL",
         "OK SAVUNMASI",
         "ÇİFT EL SAVUNMASI",
         "BIÇAK SAVUNMASI",
         "KILIÇ SAVUNMASI"
       ],
-      "SİLAH": [
+      "🗡️ Silah": [
         "ZEKA",
         "CANLILIK",
         "BÜYÜ  HIZI",
         "KRİTİK VURUŞ ŞANSI",
         "YARI İNSAN KARŞI GÜÇ"
       ],
-      "KALKAN": [
+      "🛡️ Kalkan": [
         "ZEKA",
         "ÇEVİKLİK",
         "YAKIN DÖVÜŞ BLOKLAMA",
@@ -77,72 +77,72 @@
   },
   "Savaşçı - Zihinsel": {
     "ekipman": {
-      "KOLYE": "CENNETİN GÖZÜ KOLYE",
-      "KÜPE": "ABANOZ KÜPE",
-      "BİLEZİK": "CENNETİN GÖZÜ BİLEZİK",
-      "AYAKKABI": "ANKA AYAKKABI",
-      "KASK": "KORKU MASKESİ",
-      "ZIRH": "SİYAH ÇELİK",
-      "SİLAH": "MUHAREBE KILICI",
-      "KALKAN": "ŞAHİN-ASLAN-KAPLAN- EJDERHA PULU"
+      "📿 Kolye": "CENNETİN GÖZÜ KOLYE",
+      "📿 Küpe": "ABANOZ KÜPE",
+      "💎 Bilezik": "CENNETİN GÖZÜ BİLEZİK",
+      "🥾 Ayakkabı": "ANKA AYAKKABI",
+      "👑 Kask": "KORKU MASKESİ",
+      "🛡️ Zırh": "SİYAH ÇELİK",
+      "🗡️ Silah": "MUHAREBE KILICI",
+      "🛡️ Kalkan": "ŞAHİN-ASLAN-KAPLAN- EJDERHA PULU"
     },
-    "statu": [
-      "STR",
-      "VIT (HP )",
-      "DEX ( DEF )",
-      "INT (SP )"
+    "📈 Statü Sırası": [
+      "💪 STR",
+      "❤️ VIT (HP )",
+      "🏃 DEX ( DEF )",
+      "🧠 INT (SP )"
     ],
     "efsun": {
-      "KOLYE": [
+      "📿 Kolye": [
         "HP FULL",
         "OK SAVUNMASI",
         "ÇİFT EL SAVUNMASI",
         "BIÇAK SAVUNMASI",
         "KILIÇ SAVUNMASI"
       ],
-      "KÜPE": [
+      "📿 Küpe": [
         "KILIÇ SAVUNMASI",
         "OK SAVUNMASI",
         "ÇİFT EL SAVUNMASI",
         "BIÇAK SAVUNMASI",
         "YARI İNSAN KARŞI GÜÇ"
       ],
-      "BİLEZİK": [
+      "💎 Bilezik": [
         "HP FULL",
         "HP ABSORBE",
         "DELİCİ VURUŞ ŞANS",
         "BÜYÜYE KARŞI DAYANIKLILIK",
         "YARI İNSAN KARŞI GÜÇ"
       ],
-      "AYAKKABI": [
+      "🥾 Ayakkabı": [
         "HP FULL",
         "OK SAVUNMASI",
         "ÇİFT EL SAVUNMASI",
         "BIÇAK SAVUNMASI",
         "KILIÇ SAVUNMASI"
       ],
-      "KASK": [
+      "👑 Kask": [
         "HP ÜRETİMİ",
         "SALDIRI HIZI",
         "ZEHİRLEME ŞANSI",
         "BÜYÜYE KARŞI DAYANIKLILIK",
         "YARI İNSAN KARŞI GÜÇ"
       ],
-      "ZIRH": [
+      "🛡️ Zırh": [
         "HP FULL",
         "OK SAVUNMASI",
         "ÇİFT EL SAVUNMASI",
         "BIÇAK SAVUNMASI",
         "KILIÇ SAVUNMASI"
       ],
-      "SİLAH": [
+      "🗡️ Silah": [
         "GÜÇ",
         "ZEHİRLEME ŞANSI",
         "BÜYÜ  HIZI",
         "KRİTİK VURUŞ ŞANSI",
         "YARI İNSAN KARŞI GÜÇ"
       ],
-      "KALKAN": [
+      "🛡️ Kalkan": [
         "GÜÇ",
         "CANLILIK",
         "YAKIN DÖVÜŞ BLOKLAMA",
@@ -153,72 +153,72 @@
   },
   "Savaşçı - Bedensel": {
     "ekipman": {
-      "KOLYE": "CENNETİN GÖZÜ KOLYE",
-      "KÜPE": "ABANOZ KÜPE",
-      "BİLEZİK": "CENNETİN GÖZÜ BİLEZİK",
-      "AYAKKABI": "ANKA AYAKKABI",
-      "KASK": "KORKU MASKESİ",
-      "ZIRH": "SİYAH ÇELİK",
-      "SİLAH": "MUHAREBE KILICI",
-      "KALKAN": "ŞAHİN-ASLAN-KAPLAN- EJDERHA PULU"
+      "📿 Kolye": "CENNETİN GÖZÜ KOLYE",
+      "📿 Küpe": "ABANOZ KÜPE",
+      "💎 Bilezik": "CENNETİN GÖZÜ BİLEZİK",
+      "🥾 Ayakkabı": "ANKA AYAKKABI",
+      "👑 Kask": "KORKU MASKESİ",
+      "🛡️ Zırh": "SİYAH ÇELİK",
+      "🗡️ Silah": "MUHAREBE KILICI",
+      "🛡️ Kalkan": "ŞAHİN-ASLAN-KAPLAN- EJDERHA PULU"
     },
-    "statu": [
-      "STR",
-      "VIT (HP )",
-      "DEX ( DEF )",
-      "INT (SP )"
+    "📈 Statü Sırası": [
+      "💪 STR",
+      "❤️ VIT (HP )",
+      "🏃 DEX ( DEF )",
+      "🧠 INT (SP )"
     ],
     "efsun": {
-      "KOLYE": [
+      "📿 Kolye": [
         "HP FULL",
         "OK SAVUNMASI",
         "ÇİFT EL SAVUNMASI",
         "BIÇAK SAVUNMASI",
         "KILIÇ SAVUNMASI"
       ],
-      "KÜPE": [
+      "📿 Küpe": [
         "KILIÇ SAVUNMASI",
         "OK SAVUNMASI",
         "ÇİFT EL SAVUNMASI",
         "BIÇAK SAVUNMASI",
         "YARI İNSAN KARŞI GÜÇ"
       ],
-      "BİLEZİK": [
+      "💎 Bilezik": [
         "HP FULL",
         "HP ABSORBE",
         "DELİCİ VURUŞ ŞANS",
         "BÜYÜYE KARŞI DAYANIKLILIK",
         "YARI İNSAN KARŞI GÜÇ"
       ],
-      "AYAKKABI": [
+      "🥾 Ayakkabı": [
         "HP FULL",
         "OK SAVUNMASI",
         "ÇİFT EL SAVUNMASI",
         "BIÇAK SAVUNMASI",
         "KILIÇ SAVUNMASI"
       ],
-      "KASK": [
+      "👑 Kask": [
         "HP ÜRETİMİ",
         "OKLARDAN KORUNMA ŞANSI",
         "ZEHİRLEME ŞANSI",
         "BÜYÜYE KARŞI DAYANIKLILIK",
         "YARI İNSAN KARŞI GÜÇ"
       ],
-      "ZIRH": [
+      "🛡️ Zırh": [
         "HP FULL",
         "OK SAVUNMASI",
         "ÇİFT EL SAVUNMASI",
         "BIÇAK SAVUNMASI",
         "KILIÇ SAVUNMASI"
       ],
-      "SİLAH": [
+      "🗡️ Silah": [
         "GÜÇ",
         "ZEHİRLEME ŞANSI",
         "DELİCİ VURUŞ ŞANSI",
         "KRİTİK VURUŞ ŞANSI",
         "YARI İNSAN KARŞI GÜÇ"
       ],
-      "KALKAN": [
+      "🛡️ Kalkan": [
         "GÜÇ",
         "CANLILIK",
         "YAKIN DÖVÜŞ BLOKLAMA",
@@ -229,70 +229,70 @@
   },
   "Ninja - Okçu": {
     "ekipman": {
-      "KOLYE": "CENNETİN GÖZÜ KOLYE",
-      "KÜPE": "ABANOZ KÜPE",
-      "BİLEZİK": "CENNETİN GÖZÜ BİLEZİK",
-      "AYAKKABI": "ANKA AYAKKABI",
-      "KASK": "ORK KAPŞONU",
-      "ZIRH": "SİYAH RÜZGAR ZIRHI",
-      "SİLAH": "HAVALI ÇELİK YAY",
-      "KALKAN": "ŞAHİN-ASLAN-KAPLAN- EJDERHA PULU"
+      "📿 Kolye": "CENNETİN GÖZÜ KOLYE",
+      "📿 Küpe": "ABANOZ KÜPE",
+      "💎 Bilezik": "CENNETİN GÖZÜ BİLEZİK",
+      "🥾 Ayakkabı": "ANKA AYAKKABI",
+      "👑 Kask": "ORK KAPŞONU",
+      "🛡️ Zırh": "SİYAH RÜZGAR ZIRHI",
+      "🗡️ Silah": "HAVALI ÇELİK YAY",
+      "🛡️ Kalkan": "ŞAHİN-ASLAN-KAPLAN- EJDERHA PULU"
     },
-    "statu": [
-      "STR",
-      "VIT (HP )",
-      "DEX ( DEF )",
-      "INT (SP )"
+    "📈 Statü Sırası": [
+      "💪 STR",
+      "❤️ VIT (HP )",
+      "🏃 DEX ( DEF )",
+      "🧠 INT (SP )"
     ],
     "efsun": {
-      "KOLYE": [
+      "📿 Kolye": [
         "HP FULL",
         "OK SAVUNMASI",
         "ÇİFT EL SAVUNMASI",
         "BIÇAK SAVUNMASI",
         "KILIÇ SAVUNMASI"
       ],
-      "KÜPE": [
+      "📿 Küpe": [
         "KILIÇ SAVUNMASI",
         "OK SAVUNMASI",
         "ÇİFT EL SAVUNMASI",
         "BIÇAK SAVUNMASI",
         "YARI İNSAN KARŞI GÜÇ"
       ],
-      "BİLEZİK": [
+      "💎 Bilezik": [
         "HP FULL",
         "HP ABSORBE",
         "DELİCİ VURUŞ ŞANS",
         "BÜYÜYE KARŞI DAYANIKLILIK",
         "YARI İNSAN KARŞI GÜÇ"
       ],
-      "AYAKKABI": [
+      "🥾 Ayakkabı": [
         "HP FULL",
         "OK SAVUNMASI",
         "ÇİFT EL SAVUNMASI",
         "BIÇAK SAVUNMASI",
         "KILIÇ SAVUNMASI"
       ],
-      "KASK": [
+      "👑 Kask": [
         "HP ÜRETİMİ",
         "SALDIRI HIZI",
         "ZEHİRLEME ŞANSI",
         "BÜYÜYE KARŞI DAYANIKLILIK",
         "YARI İNSAN KARŞI GÜÇ"
       ],
-      "ZIRH": [
+      "🛡️ Zırh": [
         "HP FULL",
         "OK SAVUNMASI",
         "ÇİFT EL SAVUNMASI",
         "BIÇAK SAVUNMASI",
         "KILIÇ SAVUNMASI"
       ],
-      "SİLAH": [
+      "🗡️ Silah": [
         "ORTALAMA 55 ÜSTÜ",
         "YARI İNSAN KARŞI GÜÇ",
         "DELİCİ VURUŞ"
       ],
-      "KALKAN": [
+      "🛡️ Kalkan": [
         "GÜÇ",
         "CANLILIK",
         "YAKIN DÖVÜŞ BLOKLAMA",
@@ -303,72 +303,72 @@
   },
   "Ninja - Bıçakçı": {
     "ekipman": {
-      "KOLYE": "CENNETİN GÖZÜ KOLYE",
-      "KÜPE": "ABANOZ KÜPE",
-      "BİLEZİK": "CENNETİN GÖZÜ BİLEZİK",
-      "AYAKKABI": "ANKA AYAKKABI",
-      "KASK": "ORK KAPŞONU",
-      "ZIRH": "SİYAH RÜZGAR ZIRHI",
-      "SİLAH": "EJDERHA BIÇAĞI",
-      "KALKAN": "ŞAHİN-ASLAN-KAPLAN- EJDERHA PULU"
+      "📿 Kolye": "CENNETİN GÖZÜ KOLYE",
+      "📿 Küpe": "ABANOZ KÜPE",
+      "💎 Bilezik": "CENNETİN GÖZÜ BİLEZİK",
+      "🥾 Ayakkabı": "ANKA AYAKKABI",
+      "👑 Kask": "ORK KAPŞONU",
+      "🛡️ Zırh": "SİYAH RÜZGAR ZIRHI",
+      "🗡️ Silah": "EJDERHA BIÇAĞI",
+      "🛡️ Kalkan": "ŞAHİN-ASLAN-KAPLAN- EJDERHA PULU"
     },
-    "statu": [
-      "STR",
-      "VIT (HP )",
-      "DEX ( DEF )",
-      "INT (SP )"
+    "📈 Statü Sırası": [
+      "💪 STR",
+      "❤️ VIT (HP )",
+      "🏃 DEX ( DEF )",
+      "🧠 INT (SP )"
     ],
     "efsun": {
-      "KOLYE": [
+      "📿 Kolye": [
         "HP FULL",
         "OK SAVUNMASI",
         "ÇİFT EL SAVUNMASI",
         "BIÇAK SAVUNMASI",
         "KILIÇ SAVUNMASI"
       ],
-      "KÜPE": [
+      "📿 Küpe": [
         "KILIÇ SAVUNMASI",
         "OK SAVUNMASI",
         "ÇİFT EL SAVUNMASI",
         "BIÇAK SAVUNMASI",
         "YARI İNSAN KARŞI GÜÇ"
       ],
-      "BİLEZİK": [
+      "💎 Bilezik": [
         "HP FULL",
         "HP ABSORBE",
         "DELİCİ VURUŞ ŞANS",
         "BÜYÜYE KARŞI DAYANIKLILIK",
         "YARI İNSAN KARŞI GÜÇ"
       ],
-      "AYAKKABI": [
+      "🥾 Ayakkabı": [
         "HP FULL",
         "OK SAVUNMASI",
         "ÇİFT EL SAVUNMASI",
         "BIÇAK SAVUNMASI",
         "KILIÇ SAVUNMASI"
       ],
-      "KASK": [
+      "👑 Kask": [
         "HP ÜRETİMİ",
         "SALDIRI HIZI",
         "ZEHİRLEME ŞANSI",
         "BÜYÜYE KARŞI DAYANIKLILIK",
         "YARI İNSAN KARŞI GÜÇ"
       ],
-      "ZIRH": [
+      "🛡️ Zırh": [
         "HP FULL",
         "OK SAVUNMASI",
         "ÇİFT EL SAVUNMASI",
         "BIÇAK SAVUNMASI",
         "KILIÇ SAVUNMASI"
       ],
-      "SİLAH": [
+      "🗡️ Silah": [
         "GÜÇ",
         "ÇEVİKLİK",
         "BÜYÜ  HIZI",
         "KRİTİK VURUŞ ŞANSI",
         "YARI İNSAN KARŞI GÜÇ"
       ],
-      "KALKAN": [
+      "🛡️ Kalkan": [
         "GÜÇ",
         "ÇEVİKLİK",
         "YAKIN DÖVÜŞ BLOKLAMA",
@@ -379,72 +379,72 @@
   },
   "Sura - Büyülü Silah": {
     "ekipman": {
-      "KOLYE": "CENNETİN GÖZÜ KOLYE",
-      "KÜPE": "ABANOZ KÜPE",
-      "BİLEZİK": "CENNETİN GÖZÜ BİLEZİK",
-      "AYAKKABI": "ANKA AYAKKABI",
-      "KASK": "BOYNUZLU KASK",
-      "ZIRH": "KARABÜYÜ ZIRHI",
-      "SİLAH": "MUHAREBE KILICI",
-      "KALKAN": "ŞAHİN-ASLAN-KAPLAN- EJDERHA PULU"
+      "📿 Kolye": "CENNETİN GÖZÜ KOLYE",
+      "📿 Küpe": "ABANOZ KÜPE",
+      "💎 Bilezik": "CENNETİN GÖZÜ BİLEZİK",
+      "🥾 Ayakkabı": "ANKA AYAKKABI",
+      "👑 Kask": "BOYNUZLU KASK",
+      "🛡️ Zırh": "KARABÜYÜ ZIRHI",
+      "🗡️ Silah": "MUHAREBE KILICI",
+      "🛡️ Kalkan": "ŞAHİN-ASLAN-KAPLAN- EJDERHA PULU"
     },
-    "statu": [
-      "INT (SP )",
-      "STR ",
-      "VIT (HP )",
-      "DEX ( DEF )"
+    "📈 Statü Sırası": [
+      "🧠 INT (SP )",
+      "💪 STR ",
+      "❤️ VIT (HP )",
+      "🏃 DEX ( DEF )"
     ],
     "efsun": {
-      "KOLYE": [
+      "📿 Kolye": [
         "HP FULL",
         "OK SAVUNMASI",
         "ÇİFT EL SAVUNMASI",
         "BIÇAK SAVUNMASI",
         "KILIÇ SAVUNMASI"
       ],
-      "KÜPE": [
+      "📿 Küpe": [
         "KILIÇ SAVUNMASI",
         "OK SAVUNMASI",
         "ÇİFT EL SAVUNMASI",
         "BIÇAK SAVUNMASI",
         "YARI İNSAN KARŞI GÜÇ"
       ],
-      "BİLEZİK": [
+      "💎 Bilezik": [
         "HP FULL",
         "HP ABSORBE",
         "DELİCİ VURUŞ ŞANS",
         "BÜYÜYE KARŞI DAYANIKLILIK",
         "YARI İNSAN KARŞI GÜÇ"
       ],
-      "AYAKKABI": [
+      "🥾 Ayakkabı": [
         "HP FULL",
         "OK SAVUNMASI",
         "ÇİFT EL SAVUNMASI",
         "BIÇAK SAVUNMASI",
         "KILIÇ SAVUNMASI"
       ],
-      "KASK": [
+      "👑 Kask": [
         "HP ÜRETİMİ",
         "SALDIRI HIZI",
         "ZEHİRLEME ŞANSI",
         "BÜYÜYE KARŞI DAYANIKLILIK",
         "YARI İNSAN KARŞI GÜÇ"
       ],
-      "ZIRH": [
+      "🛡️ Zırh": [
         "HP FULL",
         "OK SAVUNMASI",
         "ÇİFT EL SAVUNMASI",
         "BIÇAK SAVUNMASI",
         "KILIÇ SAVUNMASI"
       ],
-      "SİLAH": [
+      "🗡️ Silah": [
         "ZEKA",
         "GÜÇ",
         "BÜYÜ  HIZI",
         "KRİTİK VURUŞ ŞANSI",
         "YARI İNSAN KARŞI GÜÇ"
       ],
-      "KALKAN": [
+      "🛡️ Kalkan": [
         "ZEKA",
         "GÜÇ",
         "YAKIN DÖVÜŞ BLOKLAMA",
