@@ -1,0 +1,31 @@
+{
+  "Savaşçı - Bedensel": {
+    "ekipman": {
+      "Kılıç": "Muharebe Kılıcı",
+      "Zırh": "Plaka Zırh",
+      "Küpe": "Abanoz Küpe"
+    },
+    "statu": [
+      "1. STR",
+      "2. VIT",
+      "3. DEX",
+      "4. INT"
+    ],
+    "efsun": {
+      "Silah": [
+        "Kritik Vuruş",
+        "Delici Vuruş",
+        "Yarı İnsan",
+        "Güç",
+        "Zehirleme Şansı"
+      ],
+      "Zırh": [
+        "HP",
+        "Ok Savunması",
+        "Çift El Savunması",
+        "Yarı İnsan",
+        "HP Absorbe"
+      ]
+    }
+  }
+}
