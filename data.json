@@ -1,30 +1,455 @@
 {
-  "Savaşçı - Bedensel": {
+  "Şaman - Kritik": {
     "ekipman": {
-      "Kılıç": "Muharebe Kılıcı",
-      "Zırh": "Plaka Zırh",
-      "Küpe": "Abanoz Küpe"
+      "KOLYE": "İNCİ KOLYE ",
+      "KÜPE": "CENNETİN GÖZÜ KÜPE",
+      "BİLEZİK": "CENNETİN GÖZÜ BİLEZİK",
+      "AYAKKABI": "ANKA AYAKKABI ( DÖNÜŞTÜĞÜ İÇİN )",
+      "KASK": "KARDİNAL KASK",
+      "ZIRH": "SİYAH ELBİSE",
+      "SİLAH": "KURTULUŞ YELPAZE - ORKİDE ÇAN ( BECERİLİ )",
+      "KALKAN": "ŞAHİN-ASLAN-KAPLAN- EJDERHA PULU"
     },
     "statu": [
-      "1. STR",
-      "2. VIT",
-      "3. DEX",
-      "4. INT"
+      "INT (SP )",
+      "VIT (HP )",
+      "DEX ( DEF )",
+      "STR "
     ],
     "efsun": {
-      "Silah": [
-        "Kritik Vuruş",
-        "Delici Vuruş",
-        "Yarı İnsan",
-        "Güç",
-        "Zehirleme Şansı"
+      "KOLYE": [
+        "HP FULL",
+        "OK SAVUNMASI",
+        "ÇİFT EL SAVUNMASI",
+        "BIÇAK SAVUNMASI",
+        "KILIÇ SAVUNMASI"
       ],
-      "Zırh": [
-        "HP",
-        "Ok Savunması",
-        "Çift El Savunması",
-        "Yarı İnsan",
-        "HP Absorbe"
+      "KÜPE": [
+        "KILIÇ SAVUNMASI",
+        "OK SAVUNMASI",
+        "ÇİFT EL SAVUNMASI",
+        "BIÇAK SAVUNMASI",
+        "YARI İNSAN KARŞI GÜÇ"
+      ],
+      "BİLEZİK": [
+        "HP FULL",
+        "HP ABSORBE",
+        "DELİCİ VURUŞ ŞANS",
+        "BÜYÜYE KARŞI DAYANIKLILIK",
+        "YARI İNSAN KARŞI GÜÇ"
+      ],
+      "AYAKKABI": [
+        "HP FULL",
+        "OK SAVUNMASI",
+        "ÇİFT EL SAVUNMASI",
+        "BIÇAK SAVUNMASI",
+        "KILIÇ SAVUNMASI"
+      ],
+      "KASK": [
+        "HP ÜRETİMİ",
+        "OKLARDAN KORUNMA ŞANSI",
+        "ZEHİRLEME ŞANSI",
+        "BÜYÜYE KARŞI DAYANIKLILIK",
+        "YARI İNSAN KARŞI GÜÇ"
+      ],
+      "ZIRH": [
+        "HP FULL",
+        "OK SAVUNMASI",
+        "ÇİFT EL SAVUNMASI",
+        "BIÇAK SAVUNMASI",
+        "KILIÇ SAVUNMASI"
+      ],
+      "SİLAH": [
+        "ZEKA",
+        "CANLILIK",
+        "BÜYÜ  HIZI",
+        "KRİTİK VURUŞ ŞANSI",
+        "YARI İNSAN KARŞI GÜÇ"
+      ],
+      "KALKAN": [
+        "ZEKA",
+        "ÇEVİKLİK",
+        "YAKIN DÖVÜŞ BLOKLAMA",
+        "SERSEMLİLİK BAĞIŞIKLILIK",
+        "YARI İNSAN KARŞI GÜÇ"
+      ]
+    }
+  },
+  "Savaşçı - Zihinsel": {
+    "ekipman": {
+      "KOLYE": "CENNETİN GÖZÜ KOLYE",
+      "KÜPE": "ABANOZ KÜPE",
+      "BİLEZİK": "CENNETİN GÖZÜ BİLEZİK",
+      "AYAKKABI": "ANKA AYAKKABI",
+      "KASK": "KORKU MASKESİ",
+      "ZIRH": "SİYAH ÇELİK",
+      "SİLAH": "MUHAREBE KILICI",
+      "KALKAN": "ŞAHİN-ASLAN-KAPLAN- EJDERHA PULU"
+    },
+    "statu": [
+      "STR",
+      "VIT (HP )",
+      "DEX ( DEF )",
+      "INT (SP )"
+    ],
+    "efsun": {
+      "KOLYE": [
+        "HP FULL",
+        "OK SAVUNMASI",
+        "ÇİFT EL SAVUNMASI",
+        "BIÇAK SAVUNMASI",
+        "KILIÇ SAVUNMASI"
+      ],
+      "KÜPE": [
+        "KILIÇ SAVUNMASI",
+        "OK SAVUNMASI",
+        "ÇİFT EL SAVUNMASI",
+        "BIÇAK SAVUNMASI",
+        "YARI İNSAN KARŞI GÜÇ"
+      ],
+      "BİLEZİK": [
+        "HP FULL",
+        "HP ABSORBE",
+        "DELİCİ VURUŞ ŞANS",
+        "BÜYÜYE KARŞI DAYANIKLILIK",
+        "YARI İNSAN KARŞI GÜÇ"
+      ],
+      "AYAKKABI": [
+        "HP FULL",
+        "OK SAVUNMASI",
+        "ÇİFT EL SAVUNMASI",
+        "BIÇAK SAVUNMASI",
+        "KILIÇ SAVUNMASI"
+      ],
+      "KASK": [
+        "HP ÜRETİMİ",
+        "SALDIRI HIZI",
+        "ZEHİRLEME ŞANSI",
+        "BÜYÜYE KARŞI DAYANIKLILIK",
+        "YARI İNSAN KARŞI GÜÇ"
+      ],
+      "ZIRH": [
+        "HP FULL",
+        "OK SAVUNMASI",
+        "ÇİFT EL SAVUNMASI",
+        "BIÇAK SAVUNMASI",
+        "KILIÇ SAVUNMASI"
+      ],
+      "SİLAH": [
+        "GÜÇ",
+        "ZEHİRLEME ŞANSI",
+        "BÜYÜ  HIZI",
+        "KRİTİK VURUŞ ŞANSI",
+        "YARI İNSAN KARŞI GÜÇ"
+      ],
+      "KALKAN": [
+        "GÜÇ",
+        "CANLILIK",
+        "YAKIN DÖVÜŞ BLOKLAMA",
+        "SERSEMLİLİK BAĞIŞIKLILIK",
+        "YARI İNSAN KARŞI GÜÇ"
+      ]
+    }
+  },
+  "Savaşçı - Bedensel": {
+    "ekipman": {
+      "KOLYE": "CENNETİN GÖZÜ KOLYE",
+      "KÜPE": "ABANOZ KÜPE",
+      "BİLEZİK": "CENNETİN GÖZÜ BİLEZİK",
+      "AYAKKABI": "ANKA AYAKKABI",
+      "KASK": "KORKU MASKESİ",
+      "ZIRH": "SİYAH ÇELİK",
+      "SİLAH": "MUHAREBE KILICI",
+      "KALKAN": "ŞAHİN-ASLAN-KAPLAN- EJDERHA PULU"
+    },
+    "statu": [
+      "STR",
+      "VIT (HP )",
+      "DEX ( DEF )",
+      "INT (SP )"
+    ],
+    "efsun": {
+      "KOLYE": [
+        "HP FULL",
+        "OK SAVUNMASI",
+        "ÇİFT EL SAVUNMASI",
+        "BIÇAK SAVUNMASI",
+        "KILIÇ SAVUNMASI"
+      ],
+      "KÜPE": [
+        "KILIÇ SAVUNMASI",
+        "OK SAVUNMASI",
+        "ÇİFT EL SAVUNMASI",
+        "BIÇAK SAVUNMASI",
+        "YARI İNSAN KARŞI GÜÇ"
+      ],
+      "BİLEZİK": [
+        "HP FULL",
+        "HP ABSORBE",
+        "DELİCİ VURUŞ ŞANS",
+        "BÜYÜYE KARŞI DAYANIKLILIK",
+        "YARI İNSAN KARŞI GÜÇ"
+      ],
+      "AYAKKABI": [
+        "HP FULL",
+        "OK SAVUNMASI",
+        "ÇİFT EL SAVUNMASI",
+        "BIÇAK SAVUNMASI",
+        "KILIÇ SAVUNMASI"
+      ],
+      "KASK": [
+        "HP ÜRETİMİ",
+        "OKLARDAN KORUNMA ŞANSI",
+        "ZEHİRLEME ŞANSI",
+        "BÜYÜYE KARŞI DAYANIKLILIK",
+        "YARI İNSAN KARŞI GÜÇ"
+      ],
+      "ZIRH": [
+        "HP FULL",
+        "OK SAVUNMASI",
+        "ÇİFT EL SAVUNMASI",
+        "BIÇAK SAVUNMASI",
+        "KILIÇ SAVUNMASI"
+      ],
+      "SİLAH": [
+        "GÜÇ",
+        "ZEHİRLEME ŞANSI",
+        "DELİCİ VURUŞ ŞANSI",
+        "KRİTİK VURUŞ ŞANSI",
+        "YARI İNSAN KARŞI GÜÇ"
+      ],
+      "KALKAN": [
+        "GÜÇ",
+        "CANLILIK",
+        "YAKIN DÖVÜŞ BLOKLAMA",
+        "SERSEMLİLİK BAĞIŞIKLILIK",
+        "YARI İNSAN KARŞI GÜÇ"
+      ]
+    }
+  },
+  "Ninja - Okçu": {
+    "ekipman": {
+      "KOLYE": "CENNETİN GÖZÜ KOLYE",
+      "KÜPE": "ABANOZ KÜPE",
+      "BİLEZİK": "CENNETİN GÖZÜ BİLEZİK",
+      "AYAKKABI": "ANKA AYAKKABI",
+      "KASK": "ORK KAPŞONU",
+      "ZIRH": "SİYAH RÜZGAR ZIRHI",
+      "SİLAH": "HAVALI ÇELİK YAY",
+      "KALKAN": "ŞAHİN-ASLAN-KAPLAN- EJDERHA PULU"
+    },
+    "statu": [
+      "STR",
+      "VIT (HP )",
+      "DEX ( DEF )",
+      "INT (SP )"
+    ],
+    "efsun": {
+      "KOLYE": [
+        "HP FULL",
+        "OK SAVUNMASI",
+        "ÇİFT EL SAVUNMASI",
+        "BIÇAK SAVUNMASI",
+        "KILIÇ SAVUNMASI"
+      ],
+      "KÜPE": [
+        "KILIÇ SAVUNMASI",
+        "OK SAVUNMASI",
+        "ÇİFT EL SAVUNMASI",
+        "BIÇAK SAVUNMASI",
+        "YARI İNSAN KARŞI GÜÇ"
+      ],
+      "BİLEZİK": [
+        "HP FULL",
+        "HP ABSORBE",
+        "DELİCİ VURUŞ ŞANS",
+        "BÜYÜYE KARŞI DAYANIKLILIK",
+        "YARI İNSAN KARŞI GÜÇ"
+      ],
+      "AYAKKABI": [
+        "HP FULL",
+        "OK SAVUNMASI",
+        "ÇİFT EL SAVUNMASI",
+        "BIÇAK SAVUNMASI",
+        "KILIÇ SAVUNMASI"
+      ],
+      "KASK": [
+        "HP ÜRETİMİ",
+        "SALDIRI HIZI",
+        "ZEHİRLEME ŞANSI",
+        "BÜYÜYE KARŞI DAYANIKLILIK",
+        "YARI İNSAN KARŞI GÜÇ"
+      ],
+      "ZIRH": [
+        "HP FULL",
+        "OK SAVUNMASI",
+        "ÇİFT EL SAVUNMASI",
+        "BIÇAK SAVUNMASI",
+        "KILIÇ SAVUNMASI"
+      ],
+      "SİLAH": [
+        "ORTALAMA 55 ÜSTÜ",
+        "YARI İNSAN KARŞI GÜÇ",
+        "DELİCİ VURUŞ"
+      ],
+      "KALKAN": [
+        "GÜÇ",
+        "CANLILIK",
+        "YAKIN DÖVÜŞ BLOKLAMA",
+        "SERSEMLİLİK BAĞIŞIKLILIK",
+        "YARI İNSAN KARŞI GÜÇ"
+      ]
+    }
+  },
+  "Ninja - Bıçakçı": {
+    "ekipman": {
+      "KOLYE": "CENNETİN GÖZÜ KOLYE",
+      "KÜPE": "ABANOZ KÜPE",
+      "BİLEZİK": "CENNETİN GÖZÜ BİLEZİK",
+      "AYAKKABI": "ANKA AYAKKABI",
+      "KASK": "ORK KAPŞONU",
+      "ZIRH": "SİYAH RÜZGAR ZIRHI",
+      "SİLAH": "EJDERHA BIÇAĞI",
+      "KALKAN": "ŞAHİN-ASLAN-KAPLAN- EJDERHA PULU"
+    },
+    "statu": [
+      "STR",
+      "VIT (HP )",
+      "DEX ( DEF )",
+      "INT (SP )"
+    ],
+    "efsun": {
+      "KOLYE": [
+        "HP FULL",
+        "OK SAVUNMASI",
+        "ÇİFT EL SAVUNMASI",
+        "BIÇAK SAVUNMASI",
+        "KILIÇ SAVUNMASI"
+      ],
+      "KÜPE": [
+        "KILIÇ SAVUNMASI",
+        "OK SAVUNMASI",
+        "ÇİFT EL SAVUNMASI",
+        "BIÇAK SAVUNMASI",
+        "YARI İNSAN KARŞI GÜÇ"
+      ],
+      "BİLEZİK": [
+        "HP FULL",
+        "HP ABSORBE",
+        "DELİCİ VURUŞ ŞANS",
+        "BÜYÜYE KARŞI DAYANIKLILIK",
+        "YARI İNSAN KARŞI GÜÇ"
+      ],
+      "AYAKKABI": [
+        "HP FULL",
+        "OK SAVUNMASI",
+        "ÇİFT EL SAVUNMASI",
+        "BIÇAK SAVUNMASI",
+        "KILIÇ SAVUNMASI"
+      ],
+      "KASK": [
+        "HP ÜRETİMİ",
+        "SALDIRI HIZI",
+        "ZEHİRLEME ŞANSI",
+        "BÜYÜYE KARŞI DAYANIKLILIK",
+        "YARI İNSAN KARŞI GÜÇ"
+      ],
+      "ZIRH": [
+        "HP FULL",
+        "OK SAVUNMASI",
+        "ÇİFT EL SAVUNMASI",
+        "BIÇAK SAVUNMASI",
+        "KILIÇ SAVUNMASI"
+      ],
+      "SİLAH": [
+        "GÜÇ",
+        "ÇEVİKLİK",
+        "BÜYÜ  HIZI",
+        "KRİTİK VURUŞ ŞANSI",
+        "YARI İNSAN KARŞI GÜÇ"
+      ],
+      "KALKAN": [
+        "GÜÇ",
+        "ÇEVİKLİK",
+        "YAKIN DÖVÜŞ BLOKLAMA",
+        "SERSEMLİLİK BAĞIŞIKLILIK",
+        "YARI İNSAN KARŞI GÜÇ"
+      ]
+    }
+  },
+  "Sura - Büyülü Silah": {
+    "ekipman": {
+      "KOLYE": "CENNETİN GÖZÜ KOLYE",
+      "KÜPE": "ABANOZ KÜPE",
+      "BİLEZİK": "CENNETİN GÖZÜ BİLEZİK",
+      "AYAKKABI": "ANKA AYAKKABI",
+      "KASK": "BOYNUZLU KASK",
+      "ZIRH": "KARABÜYÜ ZIRHI",
+      "SİLAH": "MUHAREBE KILICI",
+      "KALKAN": "ŞAHİN-ASLAN-KAPLAN- EJDERHA PULU"
+    },
+    "statu": [
+      "INT (SP )",
+      "STR ",
+      "VIT (HP )",
+      "DEX ( DEF )"
+    ],
+    "efsun": {
+      "KOLYE": [
+        "HP FULL",
+        "OK SAVUNMASI",
+        "ÇİFT EL SAVUNMASI",
+        "BIÇAK SAVUNMASI",
+        "KILIÇ SAVUNMASI"
+      ],
+      "KÜPE": [
+        "KILIÇ SAVUNMASI",
+        "OK SAVUNMASI",
+        "ÇİFT EL SAVUNMASI",
+        "BIÇAK SAVUNMASI",
+        "YARI İNSAN KARŞI GÜÇ"
+      ],
+      "BİLEZİK": [
+        "HP FULL",
+        "HP ABSORBE",
+        "DELİCİ VURUŞ ŞANS",
+        "BÜYÜYE KARŞI DAYANIKLILIK",
+        "YARI İNSAN KARŞI GÜÇ"
+      ],
+      "AYAKKABI": [
+        "HP FULL",
+        "OK SAVUNMASI",
+        "ÇİFT EL SAVUNMASI",
+        "BIÇAK SAVUNMASI",
+        "KILIÇ SAVUNMASI"
+      ],
+      "KASK": [
+        "HP ÜRETİMİ",
+        "SALDIRI HIZI",
+        "ZEHİRLEME ŞANSI",
+        "BÜYÜYE KARŞI DAYANIKLILIK",
+        "YARI İNSAN KARŞI GÜÇ"
+      ],
+      "ZIRH": [
+        "HP FULL",
+        "OK SAVUNMASI",
+        "ÇİFT EL SAVUNMASI",
+        "BIÇAK SAVUNMASI",
+        "KILIÇ SAVUNMASI"
+      ],
+      "SİLAH": [
+        "ZEKA",
+        "GÜÇ",
+        "BÜYÜ  HIZI",
+        "KRİTİK VURUŞ ŞANSI",
+        "YARI İNSAN KARŞI GÜÇ"
+      ],
+      "KALKAN": [
+        "ZEKA",
+        "GÜÇ",
+        "YAKIN DÖVÜŞ BLOKLAMA",
+        "SERSEMLİLİK BAĞIŞIKLILIK",
+        "YARI İNSAN KARŞI GÜÇ"
       ]
     }
   }
